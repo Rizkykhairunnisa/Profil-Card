@@ -1,0 +1,43 @@
+body{
+    background-image: url(background.jpg);
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar{
+    width : 100vw;
+    background:#d8b659e5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #182848, #d8b659e5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #182848, #d8b659e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    padding : 3vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.content{
+    width: 49vh;
+    height: 93vh;
+    background: #283048;  /* fallback for old browsers */
+background:rgba(253, 230, 194, 0.685);  /* Chrome 10-25, Safari 5.1-6 */
+background:rgba(253, 230, 194, 0.685); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin: auto;
+    margin-top: 20vh;
+    padding: 3vh 3vh;
+}
+.nama{
+    color: rgb(0, 0, 0);
+    font-size: 2vh;
+    margin: auto;
+    text-align:center
+}
+h1{
+    font-size: 2vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    margin: 0%;
+    padding: 0%;
+}
+button{
+    background: rgb(250, 178, 70);
+    padding: 0%;
+}
